@@ -189,5 +189,6 @@
 	
 	ปิงติดแล้ว เพราะว่าเราทำ Route เรียบร้อยแล้วซึ่งเครือข่ายทั้งสองก็สามารถติดต่อข้ามกันได้แล้ว
 
-	![image](https://github.com/PlusMixDev/Network-Cisco-Static-Route-LAB05/assets/54778209/d93b302a-0df7-497b-bd93-ce4ae79be030)
+	![image](https://github.com/PlusMixDev/Network-Cisco-Static-Route-LAB05/assets/54778209/c4e4e5c1-4f24-4bc2-a3b0-641a7389293f)
+
 			
