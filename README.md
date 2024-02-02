@@ -169,7 +169,9 @@
 	- ip route 192.168.3.0 255.255.255.0 192.168.3.1
    	- exit
     - show ip route (จะเห็นว่ามันมี Static Route เพิ่มขึ้นมา )
+
 		![image](https://github.com/PlusMixDev/Network-Cisco-Static-Route-LAB05/assets/54778209/bee91688-18f0-4b84-a207-98c55142d1a3)
+		
 	- ต่อไปจะไปทำให้ PC33 ต่อมาที่ PC11 ได้บ้าง
 	- เข้าไปที่ Router12 แล้วเข้าหน้า CLI เหมือนเดิมแล้ว มั่นใจว่าตรงที่พิมพ์คำสั่งต้องเป็นแบบนี้
 
@@ -180,6 +182,7 @@
 	- ip route 192.168.3.0 255.255.255.0 192.168.3.1
     - exit
     - show ip route (จะเห็นว่ามันมี Static Route เพิ่มขึ้นมา )
+
 		![image](https://github.com/PlusMixDev/Network-Cisco-Static-Route-LAB05/assets/54778209/0ef54601-3bac-43fb-8a83-451de4e4442d)
 
 
